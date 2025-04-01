@@ -1,2 +1,5 @@
 # DNA_Sequence_Pytorch
-Training differents models using pytorch on dna sequence for classification
+
+In this Notebook, we are trying differents architectures using Python. 
+
+The goal is to train them on dna sequence for classification
